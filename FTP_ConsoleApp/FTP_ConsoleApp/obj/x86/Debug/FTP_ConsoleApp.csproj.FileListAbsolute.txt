@@ -1,0 +1,7 @@
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Debug\FTP_ConsoleApp.exe
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Debug\FTP_ConsoleApp.pdb
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Debug\Encryption.dll
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Debug\Encryption.pdb
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\obj\x86\Debug\FTP_ConsoleApp.exe
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\obj\x86\Debug\FTP_ConsoleApp.pdb
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\obj\x86\Debug\FTP_ConsoleApp.csprojResolveAssemblyReference.cache

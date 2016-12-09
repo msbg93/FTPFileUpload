@@ -1,0 +1,4 @@
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Release\FTP_ConsoleApp.exe
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\bin\Release\FTP_ConsoleApp.pdb
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\obj\x86\Release\FTP_ConsoleApp.exe
+D:\Project\FTP_ConsoleApp\FTP_ConsoleApp\obj\x86\Release\FTP_ConsoleApp.pdb

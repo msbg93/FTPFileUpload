@@ -1,0 +1,19 @@
+2016-11-22 12:50:08 > No file available to upload (Folder Empty)...
+
+2016-11-22 15:38:33 > No file available to upload (Folder Empty)...
+
+2016-11-23 9:33:17 > No file available to upload (Folder Empty)...
+
+2016-11-23 10:25:11 > No file available to upload (Folder Empty)...
+
+2016-11-23 12:40:48
+
+2016-11-23 12:41:20 > Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+2016-12-09 12:40:36 > No file available to upload (Folder Empty)...
+
+2016-12-09 12:46:16 > Index was outside the bounds of the array.
+
+2016-12-09 12:46:42 > NAV.MFPF.20161116.txt Uploaded...
+
